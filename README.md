@@ -25,5 +25,7 @@ Este dataset es ideal para desarrollar modelos de clasificación de transaccione
 - DBSCAN
 
  ## **Enlaces**
-
+ 
  [Colab (Código)](https://colab.research.google.com/drive/1MkFNfSvjS7ncEHxqCWynSckHupIwsaON?usp=sharing)
+ [Video (YouTube)](https://youtu.be/QmyhJ9B1jyA?si=T7g_GQrVw_9O31Tz)
+
